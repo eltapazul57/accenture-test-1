@@ -1,0 +1,21 @@
+# --- Datasets y Archivos Pesados ---
+data/raw/Challenge_DataAI_Candidatos.csv
+*.csv
+*.xlsx
+*.zip
+*.gz
+
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.venv/
+env/
+venv/
+.env
+
+# --- Sistema (Linux/Fedora) ---
+.DS_Store
+.directory
+*.swp
